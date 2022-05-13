@@ -1,0 +1,15 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chatbot proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carolina Ferreiro",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "twit": "^2.2.11"
+  }
+}
